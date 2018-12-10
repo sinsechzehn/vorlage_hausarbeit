@@ -1,5 +1,4 @@
-# vorlage_hausarbeit
-## Vorlage für Hausarbeiten für den Studiengang Sozialinformatik an der HS Fulda
+# Vorlage für Hausarbeiten für den Studiengang Sozialinformatik an der HS Fulda
 
 Hier entsteht eine (hoffentlich) laufend aktuallisierte Vorlage für Hausarbeiten.
 
